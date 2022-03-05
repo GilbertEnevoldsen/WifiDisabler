@@ -2,6 +2,8 @@
 
 ---
 
+! This is NOT for malicious purposes, use at your own risk
+
 <a title="Python version"><img src="https://img.shields.io/badge/python-3.9-green.svg"></a>
 
 ```
